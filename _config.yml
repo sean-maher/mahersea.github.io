@@ -1,4 +1,4 @@
 name: Sean A .Maher
-markdown: markdown
+markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
