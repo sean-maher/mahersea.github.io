@@ -1,2 +1,4 @@
 name: Sean A .Maher
 markdown: markdown
+
+permalink: /blog/:year/:month/:day/:title
